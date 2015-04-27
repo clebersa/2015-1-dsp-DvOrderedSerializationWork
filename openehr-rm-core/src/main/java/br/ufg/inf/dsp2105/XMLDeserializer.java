@@ -1,4 +1,4 @@
-package inf.ufg.br.dsp2105;
+package br.ufg.inf.dsp2105;
 
 /**
  *
