@@ -185,7 +185,7 @@ public final class Interval<T extends Comparable> extends RMObject {
     }
 
     // POJO start
-    private Interval() {
+    public Interval() {
     }
 
     public void setLower(T lower) {

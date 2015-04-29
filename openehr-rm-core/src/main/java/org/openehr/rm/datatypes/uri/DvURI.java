@@ -67,7 +67,7 @@ public class DvURI extends DataValue {
     }
 
     // POJO start
-    DvURI() {
+    public DvURI() {
     }
 
     private void setValue(String value) {

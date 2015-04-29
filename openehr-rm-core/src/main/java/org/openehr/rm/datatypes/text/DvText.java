@@ -233,7 +233,7 @@ public class DvText extends DataValue {
     }
 
     // POJO start
-    protected DvText() {
+    public DvText() {
     }
 
     public void setValue(String value) {

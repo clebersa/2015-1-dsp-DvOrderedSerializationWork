@@ -149,7 +149,7 @@ public class ObjectRef extends RMObject {
     }
 
     // POJO start
-    ObjectRef() {
+    public ObjectRef() {
     }
 
     private void setOid(ObjectID id) {

@@ -101,7 +101,7 @@ public class LocatableRef extends ObjectRef {
         .toHashCode();
     }
     // POJO start
-    LocatableRef() {
+    public LocatableRef() {
     }
     
     void setPath(String path) {

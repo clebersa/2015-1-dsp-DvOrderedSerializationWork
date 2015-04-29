@@ -343,6 +343,9 @@ public class DvQuantity extends DvAmount<DvQuantity> {
                 .toHashCode();
     }
 
+	public DvQuantity() {
+	}
+
     // POJO start
     public void setMagnitude(double magnitude) {
         this.magnitude = magnitude;

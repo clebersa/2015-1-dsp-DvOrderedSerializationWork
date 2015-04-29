@@ -139,7 +139,7 @@ public class ObjectVersionID extends UIDBasedID {
 	}
 
 	//POJO start
-	ObjectVersionID() {
+	public ObjectVersionID() {
 	}
 	
     protected void setValue(String value) {

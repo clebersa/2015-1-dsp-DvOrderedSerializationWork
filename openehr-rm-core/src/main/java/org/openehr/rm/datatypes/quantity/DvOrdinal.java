@@ -217,7 +217,7 @@ public final class DvOrdinal extends DvOrdered<DvOrdinal> {
     }
     
     // POJO start
-    private DvOrdinal() {
+    public DvOrdinal() {
     }
 
     public  void setValue(int value) {

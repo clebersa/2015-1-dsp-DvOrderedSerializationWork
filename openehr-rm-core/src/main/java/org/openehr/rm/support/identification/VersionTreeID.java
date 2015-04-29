@@ -207,7 +207,7 @@ public class VersionTreeID extends RMObject {
     }
     
     //POJO start
-    VersionTreeID() {
+    public VersionTreeID() {
     }
     
     void setValue(String value) {

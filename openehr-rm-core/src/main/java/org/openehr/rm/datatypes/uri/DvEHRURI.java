@@ -41,7 +41,7 @@ public final class DvEHRURI extends DvURI {
     }
 
     // POJO start
-    private DvEHRURI() {
+    public DvEHRURI() {
         super();
     }
     // POJO end

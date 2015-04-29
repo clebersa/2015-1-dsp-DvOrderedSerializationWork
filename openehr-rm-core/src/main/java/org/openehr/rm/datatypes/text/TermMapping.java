@@ -142,7 +142,7 @@ public final class TermMapping extends DataValue {
     }
 
     // POJO start
-    private TermMapping() {
+    public TermMapping() {
     }
 
     private void setTarget(CodePhrase target) {

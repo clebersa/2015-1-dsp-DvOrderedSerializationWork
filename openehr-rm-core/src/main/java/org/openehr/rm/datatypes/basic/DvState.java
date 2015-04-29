@@ -112,7 +112,7 @@ public final class DvState extends DataValue {
     }
 
     // POJO start
-    DvState() {
+    public DvState() {
     }
 
     void setValue(DvCodedText value) {

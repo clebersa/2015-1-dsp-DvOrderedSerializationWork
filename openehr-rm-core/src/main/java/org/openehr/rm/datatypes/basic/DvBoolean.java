@@ -129,7 +129,7 @@ public final class DvBoolean extends DataValue {
     }
 
     // POJO start
-    private DvBoolean() {
+    public DvBoolean() {
     }
 
     public void setValue(boolean value) {

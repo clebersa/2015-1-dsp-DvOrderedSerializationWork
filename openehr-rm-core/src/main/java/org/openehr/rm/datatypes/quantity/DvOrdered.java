@@ -37,7 +37,7 @@ public abstract class DvOrdered<T extends DvOrdered> extends DataValue
     /**
      * Constructs an Ordered without reference ranges
      */
-    protected DvOrdered() {
+    public DvOrdered() {
         this(null, null);
     }
 

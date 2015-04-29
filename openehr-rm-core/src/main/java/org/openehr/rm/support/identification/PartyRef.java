@@ -28,7 +28,7 @@ import org.openehr.rm.FullConstructor;
 public class PartyRef extends ObjectRef {
 
     // POJO start
-	PartyRef() {
+	public PartyRef() {
     }
     // POJO end
 

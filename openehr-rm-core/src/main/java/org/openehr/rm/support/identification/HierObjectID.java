@@ -132,7 +132,10 @@ public class HierObjectID extends UIDBasedID {
     public String extension() {
     	return extension;
     }
-    
+
+	public HierObjectID() {
+	}
+
     // POJO start
     @Override
     protected void setValue(String value) {

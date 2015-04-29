@@ -182,7 +182,7 @@ public final class DvCodedText extends DvText {
     }
 
     // POJO start
-    DvCodedText() {
+    public DvCodedText() {
     }
 
     public void setDefiningCode(CodePhrase definingCode) {

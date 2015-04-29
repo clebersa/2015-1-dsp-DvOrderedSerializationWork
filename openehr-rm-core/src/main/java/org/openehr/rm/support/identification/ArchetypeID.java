@@ -83,7 +83,7 @@ public final class ArchetypeID extends ObjectID {
 
 
     // POJO start
-    ArchetypeID() {
+    public ArchetypeID() {
     }
 
     protected void setValue(String value) {

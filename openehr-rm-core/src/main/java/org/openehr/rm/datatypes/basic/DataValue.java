@@ -38,7 +38,7 @@ import java.util.Map;
 public abstract class DataValue extends RMObject {
 
     // POJO start
-    protected DataValue() {
+    public DataValue() {
     }
     // POJO end
 

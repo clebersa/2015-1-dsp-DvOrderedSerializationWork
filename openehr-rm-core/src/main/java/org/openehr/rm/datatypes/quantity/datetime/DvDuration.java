@@ -81,6 +81,9 @@ public final class DvDuration extends DvAmount<DvDuration> {
 		setValue(value);
 	}
 
+	public DvDuration() {
+	}
+	
 	/**
 	 * Creates a simple DvDuration with string value
 	 * 

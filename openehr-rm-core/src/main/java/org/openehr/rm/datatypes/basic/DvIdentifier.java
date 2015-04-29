@@ -134,7 +134,7 @@ public class DvIdentifier extends DataValue {
     }
 
     // POJO start
-    protected DvIdentifier() {
+    public DvIdentifier() {
     }
 
     protected void setIssuer(String issuer) {

@@ -192,7 +192,7 @@ public final class DvCount extends DvAmount<DvCount> {
 	}
 
 	// POJO start
-	DvCount() {
+	public DvCount() {
 	}
 
 	public void setMagnitude(int magnitude) {

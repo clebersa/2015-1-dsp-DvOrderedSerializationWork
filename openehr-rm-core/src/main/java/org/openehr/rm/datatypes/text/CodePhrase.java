@@ -154,7 +154,7 @@ public final class CodePhrase extends DataValue {
     }
 
     // POJO start
-    CodePhrase() {
+    public CodePhrase() {
     }
 
     public void setTerminologyId(TerminologyID terminologyID) {

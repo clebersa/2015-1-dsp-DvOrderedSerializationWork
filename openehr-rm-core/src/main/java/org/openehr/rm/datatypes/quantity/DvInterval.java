@@ -143,14 +143,13 @@ public final class DvInterval <T extends DvOrdered> extends DataValue {
     public int hashCode() {
         return interval.hashCode();
     }
-
-
+	
     // POJO start
     public void setInterval(Interval<T> interval) {
         this.interval = interval;
     }
 
-    private DvInterval() {
+    public DvInterval() {
     }
 
     public Interval<T> getInterval() {

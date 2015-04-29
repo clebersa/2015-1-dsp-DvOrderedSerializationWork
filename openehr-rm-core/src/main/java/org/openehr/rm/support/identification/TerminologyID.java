@@ -94,7 +94,7 @@ public final class TerminologyID extends ObjectID {
     }
 
     // POJO start
-    TerminologyID() {
+    public TerminologyID() {
     }
 
     void setValue(String value) {
